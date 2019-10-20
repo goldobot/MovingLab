@@ -1,0 +1,1 @@
+copy .\QtDll\*.* .\Build\release

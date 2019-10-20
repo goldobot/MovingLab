@@ -1,0 +1,1 @@
+del .\Build\*.* /F /S /Q
